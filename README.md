@@ -11,6 +11,7 @@
     <li>git restore --staged ./nomeDoArquivo - restaura o arquivo que está na área de staged para o estado anterior.</li>
     <li>git pull remote branch - atualiza de acordo com o repositório remoto e automaticamente dá um merge no repositório local.</li>
     <li>git fetch - baixa as atualizações mas não dá merge, git diff para ver as modificações</li>
+    <li>git branch - lista as branches no código</li>
     <li>git branch nomeDaBranch - cria uma nova branch</li> 
     <li>git checkout nomeDaBranch - nos envia para branch escolhida</li>
 </ol>
